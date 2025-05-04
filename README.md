@@ -58,8 +58,8 @@
   <a href="https://github.com/R-1102/MyRiyal" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R-1102&repo=MyRiyal&theme=tokyonight" />
   </a>
-  <a href="https://github.com/R-1102/YourRepoNameHere" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r-1102&repo=YourRepoNameHere&theme=tokyonight" />
+  <a href="https://github.com/Ahado00/SawaApplication" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahado00&repo=SawaApplication&theme=tokyonight" />
   </a>
 </p>
 
