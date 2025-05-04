@@ -43,8 +43,6 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-1102&layout=compact&langs_count=6&theme=tokyonight" alt="r-1102 Top Languages"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-1102&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <hr>
