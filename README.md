@@ -3,7 +3,7 @@
 
 <p align="left">
   👀 I'm interested in <strong>AI</strong>, <strong>Mobile Development</strong>, and <strong>Clean Architecture</strong><br>
-  🌱 I'm currently diving deeper into <strong>Android Development with Kotlin & Jetpack Compose</strong><br>
+  🌱 I'm currently diving deeper into <strong>Android Development with Kotlin & Jetpack Compose</strong> also started <strong> flutter for UI</strong> <br>
   ⚡ Fun fact: <em>💡 "I believe coffee and clean code can fix almost anything ☕💻"</em>
 </p>
 
