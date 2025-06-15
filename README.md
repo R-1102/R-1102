@@ -76,12 +76,6 @@
 
 <hr>
 
-<h3 align="left">📜 Certifications:</h3>
-<ul>
-  <li>✅ Natural Language Processing (NLP)</li>
-  <li>✅ Kotlin Programming Fundamentals</li>
-</ul>
-
 <hr>
 
 <h3 align="left">🌐 Connect with me:</h3>
