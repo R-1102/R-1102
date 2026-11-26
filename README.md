@@ -1,86 +1,59 @@
-<h1 align="center">Hi 👋, I'm Renad</h1>
-<h3 align="left">A Passionate Software Developer</h3>
+<a href="https://github.com/R-1102">
+  <img src="assets/header.svg" width="100%" alt="Renad Alhazmi — Android and Flutter developer"/>
+</a>
 
-<p align="left">
-  👀 I'm interested in <strong>AI</strong>, <strong>Mobile Development</strong>, and <strong>Clean Architecture</strong><br>
-  🌱 I'm currently diving deeper into <strong>Android Development with Kotlin & Jetpack Compose</strong> also started <strong> flutter for UI</strong> <br>
-  ⚡ Fun fact: <em>💡 "I believe coffee and clean code can fix almost anything ☕💻"</em>
+<br/>
+
+<img src="assets/desk.gif" align="right" width="400" alt="Pixel-art desk at night: a laptop typing code, a phone, a steaming coffee and a window onto the dunes"/>
+
+### ✦ hi, i'm Renad
+
+I'm a computer science graduate from Riyadh who builds mobile apps that feel calm, clear and easy to use. Most days you'll find me in **Kotlin & Jetpack Compose**. Lately I've been building with **Flutter** and learning **full-stack web**.
+
+- 📱 building real apps, from community platforms to money tools
+- 🧠 curious about on-device AI, automation and clean architecture
+- 🌍 every app I ship speaks **Arabic and English**
+- ☕ fun fact: coffee and clean code can fix almost anything
+
+<br clear="right"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+### ✦ things i build with
+
+<img src="assets/stack.svg" width="100%" alt="Tech stack: Kotlin, Jetpack Compose, Android, Flutter, Dart, Firebase, Room, Java, Python, HTML, CSS, JavaScript, Android Studio, Git, GitHub, Figma"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+### ✦ featured projects
+
+<p align="center">
+  <a href="https://github.com/R-1102/SawaApplication"><img src="assets/project-sawa.svg" width="49%" alt="Sawa — communities app"/></a>
+  <a href="https://github.com/R-1102/MyRiyal"><img src="assets/project-myriyal.svg" width="49%" alt="My Riyal — expense tracker"/></a>
+  <a href="https://github.com/R-1102/MLKit-Showcase"><img src="assets/project-mlkit.svg" width="49%" alt="ML Kit Showcase — on-device AI"/></a>
+  <a href="https://github.com/R-1102/PortfolioWebsiteCourseraCourse"><img src="assets/project-portfolio.svg" width="49%" alt="Portfolio website"/></a>
 </p>
 
-<hr>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<h3 align="left">👩‍💻 About Me:</h3>
-<ul>
-  <li>🎓 I’m a Computer Science graduate
-  <li>📱 Currently focused on Android development, leveraging modern tools like Jetpack Compose to build intuitive user interfaces</li>
-  <li>🧠 Always curious about AI, automation, and building intelligent systems</li>
-  <li>📌 Currently building and contributing to real-world mobile applications</li>
-</ul>
+### ✦ my contribution garden
 
-<hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R-1102/R-1102/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R-1102/R-1102/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/R-1102/R-1102/output/github-snake-dark.svg" width="100%" alt="A snake eating my GitHub contributions"/>
+</picture>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### ✦ a line i live by
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+### ✦ let's connect
+
 <p align="left">
-  <!-- Android -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-    <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-  </a>
-
+  <a href="https://www.linkedin.com/in/renad-alhazmi-764b49321"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://github.com/R-1102?tab=repositories"><img src="assets/btn-github.svg" height="48" alt="More projects on GitHub"/></a>
 </p>
 
-<hr>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-1102&layout=compact&langs_count=6&theme=tokyonight" alt="r-1102 Top Languages"/>
-</p>
-
-<hr>
-
-<h3 align="left">💬 Personal Quote:</h3>
-<blockquote>
-  <em>"First, solve the problem. Then, write the code."</em> – John Johnson
-</blockquote>
-
-<hr>
-<h3 align="left">📌 Pinned Projects:</h3>
-<p align="left">
-  <a href="https://github.com/R-1102/MyRiyal" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R-1102&repo=MyRiyal&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/R-1102/SawaApplication" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R-1102&repo=SawaApplication&theme=tokyonight" />
-  </a>
-</p>
-
-
-<hr>
-
-<hr>
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/renad-alhazmi-764b49321" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
