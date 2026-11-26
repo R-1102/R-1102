@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 32" width="1200" height="32" role="img" aria-label=""><style>
+.tw{animation:tw 3.4s steps(4) infinite}@keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
+.bob{animation:bob 2.4s steps(2) infinite}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.bob2{animation:bob 3.2s steps(2) infinite}
+.fa{animation:fa 1.2s steps(1) infinite}@keyframes fa{0%{opacity:1}50%{opacity:0}}
+.fb{animation:fb 1.2s steps(1) infinite}@keyframes fb{0%{opacity:0}50%{opacity:1}}
+.slow{animation-duration:2.4s}
+.blink{animation:blink 1.6s steps(1) infinite}@keyframes blink{0%,60%{opacity:1}61%,100%{opacity:0}}
+.pulse{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes pulse{0%,100%{transform:scale(1);opacity:.9}50%{transform:scale(1.25);opacity:.45}}
+.steam{animation:steam 2.4s steps(6) infinite}@keyframes steam{0%{transform:translateY(0);opacity:0}20%{opacity:1}100%{transform:translateY(-30px);opacity:0}}
+.walk{animation:walk 60s linear infinite}@keyframes walk{from{transform:translateX(-160px)}to{transform:translateX(1360px)}}
+.shoot{animation:shoot 10s ease-in infinite;opacity:0}@keyframes shoot{0%,84%{opacity:0;transform:translate(0,0)}86%{opacity:1}94%{opacity:0;transform:translate(-300px,120px)}100%{opacity:0}}
+.flow{animation:flow 1.8s steps(6) infinite}@keyframes flow{from{transform:translateX(0)}to{transform:translateX(36px)}}
+.scan{animation:scan 2.6s steps(10) infinite alternate}@keyframes scan{from{transform:translateY(0)}to{transform:translateY(60px)}}
+.sway{animation:sway 4s steps(2) infinite}@keyframes sway{0%,100%{transform:translateX(0)}50%{transform:translateX(3px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><path fill="#b58bc4" fill-opacity=".8" d="M120 14.0h4v4h-4zM174 14.0h4v4h-4zM228 14.0h4v4h-4zM282 14.0h4v4h-4zM336 14.0h4v4h-4zM390 13.0h6v6h-6zM444 13.0h6v6h-6zM498 13.0h6v6h-6zM552 13.0h6v6h-6zM660 13.0h6v6h-6zM714 13.0h6v6h-6zM768 13.0h6v6h-6zM822 13.0h6v6h-6zM876 14.0h4v4h-4zM930 14.0h4v4h-4zM984 14.0h4v4h-4zM1038 14.0h4v4h-4z"/><path fill="#d58fb2" fill-opacity=".8" d="M138 14.0h4v4h-4zM192 14.0h4v4h-4zM246 14.0h4v4h-4zM300 14.0h4v4h-4zM354 14.0h4v4h-4zM408 13.0h6v6h-6zM462 13.0h6v6h-6zM516 13.0h6v6h-6zM678 13.0h6v6h-6zM732 13.0h6v6h-6zM786 13.0h6v6h-6zM840 14.0h4v4h-4zM894 14.0h4v4h-4zM948 14.0h4v4h-4zM1002 14.0h4v4h-4zM1056 14.0h4v4h-4z"/><path fill="#e6a58c" fill-opacity=".8" d="M156 14.0h4v4h-4zM210 14.0h4v4h-4zM264 14.0h4v4h-4zM318 14.0h4v4h-4zM372 13.0h6v6h-6zM426 13.0h6v6h-6zM480 13.0h6v6h-6zM534 13.0h6v6h-6zM642 13.0h6v6h-6zM696 13.0h6v6h-6zM750 13.0h6v6h-6zM804 13.0h6v6h-6zM858 14.0h4v4h-4zM912 14.0h4v4h-4zM966 14.0h4v4h-4zM1020 14.0h4v4h-4zM1074 14.0h4v4h-4z"/><g class="tw"><g transform="translate(585 1) scale(6)" shape-rendering="crispEdges"><path fill="#ffe6a3" d="M2 0h1v1h-1zM1 1h3v1h-3zM0 2h5v1h-5zM1 3h3v1h-3zM2 4h1v1h-1z"/></g></g></svg>
